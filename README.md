@@ -2,8 +2,11 @@
 아주대학교 2021년 가을학기 OSEK/VDX 프로그래밍 팀 프로젝트
 ## OSEK/VDX 방식으로 레고 마인드 스톰 프로그래밍
 -nxtOSEK: [nxtOSEK Installation in Linux](http://lejos-osek.sourceforge.net/installation_linux.htm)
-![BareMetal vs OSEK/VDX]()
+![BareMetal vs OSEK/VDX](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/OSEK.jpg?raw=true)
+
+
 ### 실행 방법
+Ubuntu
 ``` bash
 cd follower_origin #cd follower_test
 
@@ -12,7 +15,8 @@ make all
 cp -r follower_jbh.rxe /ShareFolder/follower_jbh.rxe #cp -r follower_test.rxe /ShareFolder/follower_test.rxe
 ```
 
-``` cmd
+CMD
+``` bash
  
 NextTool.exe /COM=usb –versions #본체와 연결 확인
  
@@ -26,4 +30,4 @@ NeXTTool.exe /COM=usb -listfiles=[자신이 만든 이미지 이름].rxe #다운
 
 
 ### 시연 영상
-![실제 동작]()
+![실제 동작](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/demo.gif?raw=true)
