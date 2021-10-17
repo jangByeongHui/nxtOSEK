@@ -31,3 +31,4 @@ NeXTTool.exe /COM=usb -listfiles=[자신이 만든 이미지 이름].rxe #다운
 ![초기 시연](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/demo.gif)
 
 ![판 보정후](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/adjust_panel.gif =300x500 )
+![판 보정후]<img src="https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/adjust_panel.gif" width="300" height="500">
