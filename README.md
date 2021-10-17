@@ -20,15 +20,14 @@ cp -r follower_jbh.rxe /ShareFolder/follower_jbh.rxe #cp -r follower_test.rxe /S
 CMD
 ``` bash
 NextTool.exe /COM=usb –versions #본체와 연결 확인
-
 NextTool.exe /COM=usb -firmware=lms_arm_nbcnxc_128.rfw #펌웨어 업데이트
-
 NextTool.exe /COM=usb –download=[자신이 만든 이미지 이름].rxe #어플리케이션 다운로드 예) NextTool.exe /COM=usb –download=helloworld_OSEK.rxe
-
 NeXTTool.exe /COM=usb -listfiles=[자신이 만든 이미지 이름].rxe #다운로드 확인 예) NeXTTool.exe /COM=usb -listfiles=ResourceTest.rx
 ```
 
 
 
 ### 시연 영상
-![실제 동작](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/demo.gif?raw=true)
+![초기 시연](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/demo.gif?raw=true)
+
+![판 보정후](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/demo.gif?raw=true)
