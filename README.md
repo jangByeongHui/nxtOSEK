@@ -7,9 +7,10 @@
 ![BareMetal vs OSEK/VDX](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/OSEK.jpg?raw=true)
 
 ### 적용 알고리즘
-- [Low Pass Filter](https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9A%B0%ED%8C%A8%EC%8A%A4_%ED%95%84%ED%84%B0)
+
+[Low Pass Filter](https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9A%B0%ED%8C%A8%EC%8A%A4_%ED%95%84%ED%84%B0)
 <img src="https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/lowpassfilter.png">
-- [Proportional-Integral-Differential controller](https://ko.wikipedia.org/wiki/PID_%EC%A0%9C%EC%96%B4%EA%B8%B0)
+[Proportional-Integral-Differential controller](https://ko.wikipedia.org/wiki/PID_%EC%A0%9C%EC%96%B4%EA%B8%B0)
 <img src="https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/PID.gif">
 
 
