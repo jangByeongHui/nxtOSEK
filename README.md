@@ -10,7 +10,7 @@
 
 [Low Pass Filter](https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9A%B0%ED%8C%A8%EC%8A%A4_%ED%95%84%ED%84%B0)
 </br>
-<img src="https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/lowpassfilter.png" width="450" height="300">
+<img src="https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/lowpassfilter.png" width="600" height="200">
 </br>
 [Proportional-Integral-Differential controller](https://ko.wikipedia.org/wiki/PID_%EC%A0%9C%EC%96%B4%EA%B8%B0)
 </br>
