@@ -1,7 +1,9 @@
 # nxtOSEK 초음판 센서를 활용한 Follower
 아주대학교 2021년 가을학기 OSEK/VDX 프로그래밍 팀 프로젝트
+
 ## OSEK/VDX 방식으로 레고 마인드 스톰 프로그래밍
 -nxtOSEK: [nxtOSEK Installation in Linux](http://lejos-osek.sourceforge.net/installation_linux.htm)
+</br>
 ![BareMetal vs OSEK/VDX](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/OSEK.jpg?raw=true)
 
 
