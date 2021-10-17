@@ -8,11 +8,15 @@
 
 ### 적용 알고리즘
 - [Low Pass Filter](https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9A%B0%ED%8C%A8%EC%8A%A4_%ED%95%84%ED%84%B0)
+
 </br>
-![Low Pass Filter](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/lowpassfilter.png)
+![Low Pass Filter](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/lowpassfilter.png?raw=true)
+
 - [Proportional-Integral-Differential controller](https://ko.wikipedia.org/wiki/PID_%EC%A0%9C%EC%96%B4%EA%B8%B0)
+
 </br>
-![Proportional-Integral-Differential controller](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/PID.gif)
+![Proportional-Integral-Differential controller](https://github.com/jangByeongHui/nxtOSEK/blob/main/asset/PID.gif?raw=true)
+
 * Low Pass Filter는 초음파 센서의 간섭 및 값이 튀는 현상을 보정하기 위해서 적용
 * PID는 앞 차량과의 거리에 따라 차량의 속력을 조절하고 조향 같은 경우에도 판의 위치에 따라 조향을 하기 위해 적용
 
